@@ -1,5 +1,8 @@
 Name: Nasrin Chowdhury
 Age : 23
+Gender:Female
+Status:Marraid
 Department : CSE
+Semester: 8th
 University: Dhaka University
 Address: Gulshan, Dhaka
